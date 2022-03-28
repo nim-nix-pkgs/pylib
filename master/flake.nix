@@ -11,7 +11,6 @@
   inputs.src-pylib-master.ref   = "refs/heads/master";
   inputs.src-pylib-master.owner = "Yardanico";
   inputs.src-pylib-master.repo  = "nimpylib";
-  inputs.src-pylib-master.dir   = "";
   inputs.src-pylib-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
