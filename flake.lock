@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918334,
-        "narHash": "sha256-/UhGnrgyvmI/4CitIdU4kW9lZ01BzTw2czlPNiQNEqg=",
+        "lastModified": 1652391471,
+        "narHash": "sha256-Uh/oz9+GbwHArqUeZaXvEYJ2sCp1MQWz0LPjvQL+RAA=",
         "owner": "nim-nix-pkgs",
         "repo": "pylib",
-        "rev": "c02eb7edf24bb692dfc9e833f73721807a255fa1",
+        "rev": "5c2e1efc33ae5ab5f8666dd90c76ff0168f51285",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
     "src-pylib-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1627691033,
-        "narHash": "sha256-YTuBXZJUeJOioAJmU9XcErJ/PvCDWsvUO0XiERPC00Y=",
+        "lastModified": 1652031055,
+        "narHash": "sha256-rBqgnHBL3VNcZH5R8RJc1KHaxUB9IrRPB9aFO66J01I=",
         "owner": "Yardanico",
         "repo": "nimpylib",
-        "rev": "2629eb09f09d7b50bcbc0ddf6d10822e64ec6595",
+        "rev": "9e75198eaabe20ccc6b11a81555c25d561c543f9",
         "type": "github"
       },
       "original": {
